@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.294acf54.css",
+    "main.js": "/static/js/main.591b6d9e.js",
+    "static/js/377.7dfcaa20.chunk.js": "/static/js/377.7dfcaa20.chunk.js",
+    "static/media/Pretendard-Medium.otf": "/static/media/Pretendard-Medium.bcebdfe0d3918708aa5d.otf",
+    "static/media/Pretendard-SemiBold.otf": "/static/media/Pretendard-SemiBold.9009f5d2e39a2d3bdaf6.otf",
+    "static/media/Pretendard-Bold.otf": "/static/media/Pretendard-Bold.e75150e686324d4f5c03.otf",
+    "static/media/Pretendard-Regular.otf": "/static/media/Pretendard-Regular.ca2c5a97ebe998670619.otf",
+    "static/media/img_jeju04.png": "/static/media/img_jeju04.fc60952b54fc48f81d60.png",
+    "static/media/img_jeju03.png": "/static/media/img_jeju03.a4e6759acb2b1cc16cf3.png",
+    "static/media/img_jeju02.png": "/static/media/img_jeju02.8efe0810053476241e6e.png",
+    "static/media/img_jeju01_wallpaper.png": "/static/media/img_jeju01_wallpaper.a9d8a5a8c158309ba054.png",
+    "static/media/Intro_firstPage_sitting.svg": "/static/media/Intro_firstPage_sitting.5f3e672a0d0a2c7d65e8046ac0c5845a.svg",
+    "static/media/Intro_secondPage_standing.svg": "/static/media/Intro_secondPage_standing.c5f40fe883700607d969ec2c994c6244.svg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/book.svg": "/static/media/book.962e6e11787210752d48909b7c311aec.svg",
+    "static/media/firstpage-text.svg": "/static/media/firstpage-text.3f87ea9debadb1ff025a95f9d21d00b9.svg",
+    "static/media/secondpage-text.svg": "/static/media/secondpage-text.2af3ddd44ef0b7b2f83963e206e70241.svg",
+    "static/media/ic_login_google.svg": "/static/media/ic_login_google.ce52638dbaf22d24b0d91ad9b3179ec0.svg",
+    "static/media/delete_alert.svg": "/static/media/delete_alert.c4180cc259fcec76a70c5b09870e7afa.svg",
+    "static/media/talk_box.svg": "/static/media/talk_box.ec9c61013f5cfc6be98e0cfdd3f53cd5.svg",
+    "static/media/ic_login_kakao.svg": "/static/media/ic_login_kakao.597e4743cf380e773bbf3c0d8386884e.svg",
+    "static/media/ic_login_naver.svg": "/static/media/ic_login_naver.9c53e1268c64dba89e062b78fe1ea1ed.svg",
+    "static/media/ic_upload_archiving.svg": "/static/media/ic_upload_archiving.37dc9b9ffdbf26bc24c92f95fe2c7782.svg",
+    "static/media/tracious_text_logo.svg": "/static/media/tracious_text_logo.32b7cff1ecf1d9008c1ad168ca21c4e0.svg",
+    "static/media/ic_dropdown_archiving_down.svg": "/static/media/ic_dropdown_archiving_down.ffc396683681a5d987ae083b101cce78.svg",
+    "static/media/ic_dropdown_archiving_up.svg": "/static/media/ic_dropdown_archiving_up.49a403b1ebee867e4cffd42e1502b1b1.svg",
+    "index.html": "/index.html",
+    "main.294acf54.css.map": "/static/css/main.294acf54.css.map",
+    "main.591b6d9e.js.map": "/static/js/main.591b6d9e.js.map",
+    "377.7dfcaa20.chunk.js.map": "/static/js/377.7dfcaa20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.294acf54.css",
+    "static/js/main.591b6d9e.js"
+  ]
+}
